@@ -37,11 +37,7 @@ This is an individual project impleted in 5 days. This Movie searching app is to
 </br></br>
 ![det](https://user-images.githubusercontent.com/107460617/213994758-5b9a701c-4e1a-41a9-a469-2f0ba6857d76.PNG)</br></br>
 
-
-
-🐅
-
-🐯 
+ 
 
 
 
