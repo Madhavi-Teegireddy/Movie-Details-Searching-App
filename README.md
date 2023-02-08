@@ -1,4 +1,4 @@
-# 🎬📽 Movie-Details-Searching-App🎥💿
+# 🎬📽 Movie-Details-Searching-App 🎥💿
 
 
 🔗Live Link:https://redux-movie-app-beryl.vercel.app/ </br></br>
